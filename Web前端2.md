@@ -988,7 +988,7 @@ export default InputExample;
 
 ## （3） react 组件通信
 
-<img src="image/6.jpg" alt="p1" style="zoom:33%;" />
+<img src="./image/6.jpg" alt="p1" style="zoom:33%;" />
 
 <img src="image/7.jpg" alt="p1" style="zoom:30%;" />
 
