@@ -219,13 +219,13 @@ async/await
 
 #### 事件的执行顺序：
 
-<img src="C:\Users\25398\Documents\Tencent Files\2539888062\nt_qq\nt_data\Pic\2025-05\Ori\731d23ac2d87ddb6f37cd579c49e482f.jpg" alt="731d23ac2d87ddb6f37cd579c49e482f" style="zoom:27%;" />
+<img src="image/宏任务.jpg" alt="宏任务与微任务" style="zoom:33%;" />
 
 ## （7）javascript 中的Promise
 
-<img src="C:\Users\25398\Documents\Tencent Files\2539888062\nt_qq\nt_data\Pic\2025-05\Ori\61ee4c1fe4c321089effe58837128c67.jpg" alt="61ee4c1fe4c321089effe58837128c67" style="zoom:27%;" />
+<img src="image/promise.jpg" alt="promise" style="zoom:33%;" />
 
-<img src="C:\Users\25398\Documents\Tencent Files\2539888062\nt_qq\nt_data\Pic\2025-05\Ori\d7ddca24242ecd6c501782bb76310acd.jpg" alt="d7ddca24242ecd6c501782bb76310acd" style="zoom:23%;" />
+<img src="image/promise reject.jpg" alt="promise" style="zoom:27%;" />
 
 **手写promise：**
 
@@ -389,9 +389,9 @@ async/await
 
 ## (8)  javascript 中的防抖节流
 
-<img src="C:\Users\25398\Documents\Tencent Files\2539888062\nt_qq\nt_data\Pic\2025-05\Ori\7e6e2f4c98b6804bb00e11180c0fe11d.jpg" alt="7e6e2f4c98b6804bb00e11180c0fe11d" style="zoom:30%;" />
+<img src="image/防抖.jpg" alt="防抖" style="zoom:33%;" />
 
-<img src="C:\Users\25398\Documents\Tencent Files\2539888062\nt_qq\nt_data\Pic\2025-05\Ori\036478686e1c438a48de82cf7728c428.jpg" alt="036478686e1c438a48de82cf7728c428" style="zoom:33%;" />
+<img src="image/节流.jpg" alt="节流" style="zoom:40%;" />
 
 ## (9)  javascript 函数柯里化的实现
 
@@ -399,7 +399,7 @@ async/await
 
 ## (10)  javascript 组合函数的实现
 
-<img src="C:\Users\25398\Documents\Tencent Files\2539888062\nt_qq\nt_data\Pic\2025-05\Ori\d8a23e9845edfe57f6e3ab6ffd3afeb8.jpg" alt="d8a23e9845edfe57f6e3ab6ffd3afeb8" style="zoom:36%;" />
+<img src="image/compose.jpg" alt="compose" style="zoom:40%;" />
 
 ## (11)javascript 管道函数的实现
 
@@ -409,23 +409,23 @@ async/await
 
 **深拷贝，浅拷贝：**
 
-<img src="C:\Users\25398\Documents\Tencent Files\2539888062\nt_qq\nt_data\Pic\2025-05\Ori\00d720ea93437d19c314de64c82fd17e.jpg" alt="00d720ea93437d19c314de64c82fd17e" style="zoom:30%;" />
+<img src="image/深拷贝.jpg" alt="promise" style="zoom:33%;" />
 
-<img src="C:\Users\25398\Documents\Tencent Files\2539888062\nt_qq\nt_data\Pic\2025-05\Ori\f827a0a37a1d1b3c6785d74aca9ae143.jpg" alt="f827a0a37a1d1b3c6785d74aca9ae143" style="zoom:27%;" />
+<img src="image/函数实现深拷贝.jpg" alt="函数实现深拷贝" style="zoom:30%;" />
 
 **闭包：**
 
-<img src="C:\Users\25398\Documents\Tencent Files\2539888062\nt_qq\nt_data\Pic\2025-05\Ori\8b5828efb58b22454e245629ab5c21b5.jpg" alt="8b5828efb58b22454e245629ab5c21b5" style="zoom:33%;" />
+<img src="image/函数闭包.jpg" alt="闭包" style="zoom:40%;" />
 
 ## （13）javascript 中的常用的 Array 的 API
 
-<img src="C:\Users\25398\Documents\Tencent Files\2539888062\nt_qq\nt_data\Pic\2025-05\Ori\0bfe8d2ee5aef901c5391cf7c7f9dc5f.jpg" alt="0bfe8d2ee5aef901c5391cf7c7f9dc5f" style="zoom:40%;" />
+<img src="image/数组.jpg" alt="数组" style="zoom:50%;" />
 
-<img src="C:\Users\25398\Documents\Tencent Files\2539888062\nt_qq\nt_data\Pic\2025-05\Ori\eb2db448839ff73de3b0494ae0c450c7.jpg" alt="eb2db448839ff73de3b0494ae0c450c7" style="zoom:40%;" />
+<img src="image/反转数组.jpg" alt="" style="zoom:50%;" />
 
-<img src="C:\Users\25398\Documents\Tencent Files\2539888062\nt_qq\nt_data\Pic\2025-05\Ori\6f1e73880e4418d150b9e7c014da5cc1.jpg" alt="6f1e73880e4418d150b9e7c014da5cc1" style="zoom:40%;" />
+<img src="image/查找函数.jpg" alt="" style="zoom:45%;" />
 
-<img src="C:\Users\25398\Documents\Tencent Files\2539888062\nt_qq\nt_data\Pic\2025-05\Ori\5b6de898f878aa3649f39b185522dbae.jpg" alt="5b6de898f878aa3649f39b185522dbae" style="zoom:40%;" />
+<img src="image/执行函数.jpg" alt="" style="zoom:42%;" />
 
 ## （14） javascript 中的常用的 Object 的 API
 
