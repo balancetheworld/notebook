@@ -610,17 +610,17 @@ sealed.b = 3; // 无效（严格模式下报错）
 
 ## (15) DOM
 
-<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/688256d0bf35df1e2a5d4b8ac48c3c57.jpg" alt="688256d0bf35df1e2a5d4b8ac48c3c57" style="zoom:33%;" />
+<img src="image/1.jpg" alt="p1" style="zoom:33%;" />
 
-<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/78b14075e6e512c349d027db9a324ccd.jpg" alt="78b14075e6e512c349d027db9a324ccd" style="zoom:45%;" />
+<img src="image/2.jpg" alt="p1" style="zoom:50%;" />
 
-<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/93884161751f5f9335a89713d8953a7c.jpg" alt="93884161751f5f9335a89713d8953a7c" style="zoom:38%;" />
+<img src="image/3.jpg" alt="p1" style="zoom:40%;" />
 
-<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/afd610e99cd3f846733c08f5f9689618.jpg" alt="afd610e99cd3f846733c08f5f9689618" style="zoom:38%;" />
+<img src="image/4.jpg" alt="p1" style="zoom:40%;" />
 
 ## (16) BOM
 
-<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/45087ec0be5ac83e981f8a46ab55115f.jpg" alt="45087ec0be5ac83e981f8a46ab55115f" style="zoom:43%;" />
+<img src="image/5.jpg" alt="p1" style="zoom:50%;" />
 
 # 四、REACT
 
@@ -936,7 +936,7 @@ export default DraggableComponent;
 
 **表单事件：**
 
-**`onChange`** ：在表单元素（如 <input> 、 <textarea> 、 <select>  等 ）值发生变化时触发。用于实时获取用户输入内容并更新组件状态，使表单元素成为受控组件，如在文本输入框中实时获取用户输入：
+**`onChange`** ：在表单元素（如 &lt; input &gt; 、 &lt;textarea&gt; 、 &lt;select&gt;  等 ）值发生变化时触发。用于实时获取用户输入内容并更新组件状态，使表单元素成为受控组件，如在文本输入框中实时获取用户输入：
 
 ```jsx
 import React, { useState } from'react';
@@ -988,21 +988,21 @@ export default InputExample;
 
 ## （3） react 组件通信
 
-<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/5ce71c7041e6738ffdebdd7d8d787c7a.jpg" alt="5ce71c7041e6738ffdebdd7d8d787c7a" style="zoom:33%;" />
+<img src="image/6.jpg" alt="p1" style="zoom:33%;" />
 
-<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/a43d5e93ba7ae50e698db1c8167c0bef.jpg" alt="a43d5e93ba7ae50e698db1c8167c0bef" style="zoom:30%;" />
+<img src="image/7.jpg" alt="p1" style="zoom:30%;" />
 
 
 
 ## （4）react中常用hook
 
-<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/9aee32b482c7b8205f1e9634e5d1f450.jpg" alt="9aee32b482c7b8205f1e9634e5d1f450" style="zoom:33%;" />
+<img src="image/8.jpg" alt="p1" style="zoom:33%;" />
 
-<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/e25388836a56ea886eaecc4749f44e19.jpg" alt="e25388836a56ea886eaecc4749f44e19" style="zoom:28%;" />
+<img src="image/9.jpg" alt="p1" style="zoom:27%;" />
 
-<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/2a7047bdef1dc61451c648ab517ad3f9.jpg" alt="2a7047bdef1dc61451c648ab517ad3f9" style="zoom:28%;" />
+<img src="image/10.jpg" alt="p1" style="zoom:27%;" />
 
-<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/7722686fe59ae79159d05eaa9345ed95.jpg" alt="7722686fe59ae79159d05eaa9345ed95" style="zoom:33%;" />
+<img src="image/11.jpg" alt="p1" style="zoom:33%;" />
 
 ## （5）react优化页面
 
@@ -1012,11 +1012,11 @@ export default InputExample;
 
 ## （6）react路由
 
-<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/49611816f2610ea3f8d209f6d738b62a.jpg" alt="49611816f2610ea3f8d209f6d738b62a" style="zoom:27%;" />
+<img src="image/12.jpg" alt="p1" style="zoom:27%;" />
 
-<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/bb5ec26746e5322096dbc49eb4d8a0b1.jpg" alt="bb5ec26746e5322096dbc49eb4d8a0b1" style="zoom:35%;" />
+<img src="image/13.jpg" alt="p1" style="zoom:38%;" />
 
-<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/4ec30832da528b6d6682470cf05df155.jpg" alt="4ec30832da528b6d6682470cf05df155" style="zoom:35%;" />
+<img src="image/14.jpg" alt="p1" style="zoom:40%;" />
 
 
 
