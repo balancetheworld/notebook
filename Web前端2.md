@@ -177,9 +177,7 @@ ID选择器：id与元素一一对应
 
 ## （3）javascript 原型链
 
-<video src="https://www.bilibili.com/video/BV1N7411k7D2?spm_id_from=333.788.videopod.sections&vd_source=0068c85dc70ee23b97ca024f79dca360"/>
-
-
+[JavaScript原型链 - Web前端工程师面试题讲解](https://www.bilibili.com/video/BV1N7411k7D2?spm_id_from=333.788.videopod.sections&vd_source=0068c85dc70ee23b97ca024f79dca360)
 
 ## （4）javascript 中有哪些作用域
 
@@ -612,19 +610,17 @@ sealed.b = 3; // 无效（严格模式下报错）
 
 ## (15) DOM
 
-<img src="../../../../Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/688256d0bf35df1e2a5d4b8ac48c3c57.jpg" alt="688256d0bf35df1e2a5d4b8ac48c3c57" style="zoom:33%;" />
+<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/688256d0bf35df1e2a5d4b8ac48c3c57.jpg" alt="688256d0bf35df1e2a5d4b8ac48c3c57" style="zoom:33%;" />
 
+<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/78b14075e6e512c349d027db9a324ccd.jpg" alt="78b14075e6e512c349d027db9a324ccd" style="zoom:45%;" />
 
+<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/93884161751f5f9335a89713d8953a7c.jpg" alt="93884161751f5f9335a89713d8953a7c" style="zoom:38%;" />
 
-<img src="../../../../Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/78b14075e6e512c349d027db9a324ccd.jpg" alt="78b14075e6e512c349d027db9a324ccd" style="zoom:35%;" />
-
-<img src="../../../../Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/93884161751f5f9335a89713d8953a7c.jpg" alt="93884161751f5f9335a89713d8953a7c" style="zoom:30%;" />
-
-<img src="../../../../Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/afd610e99cd3f846733c08f5f9689618.jpg" alt="afd610e99cd3f846733c08f5f9689618" style="zoom:35%;" />
+<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/afd610e99cd3f846733c08f5f9689618.jpg" alt="afd610e99cd3f846733c08f5f9689618" style="zoom:38%;" />
 
 ## (16) BOM
 
-<img src="../../../../Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/45087ec0be5ac83e981f8a46ab55115f.jpg" alt="45087ec0be5ac83e981f8a46ab55115f" style="zoom:37%;" />
+<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/45087ec0be5ac83e981f8a46ab55115f.jpg" alt="45087ec0be5ac83e981f8a46ab55115f" style="zoom:43%;" />
 
 # 四、REACT
 
@@ -992,23 +988,21 @@ export default InputExample;
 
 ## （3） react 组件通信
 
-<img src="../../../../Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/5ce71c7041e6738ffdebdd7d8d787c7a.jpg" alt="5ce71c7041e6738ffdebdd7d8d787c7a" style="zoom:33%;" />
+<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/5ce71c7041e6738ffdebdd7d8d787c7a.jpg" alt="5ce71c7041e6738ffdebdd7d8d787c7a" style="zoom:33%;" />
 
-<img src="../../../../Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/a43d5e93ba7ae50e698db1c8167c0bef.jpg" alt="a43d5e93ba7ae50e698db1c8167c0bef" style="zoom:30%;" />
+<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/a43d5e93ba7ae50e698db1c8167c0bef.jpg" alt="a43d5e93ba7ae50e698db1c8167c0bef" style="zoom:30%;" />
 
 
 
 ## （4）react中常用hook
 
-<img src="../../../../Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/9aee32b482c7b8205f1e9634e5d1f450.jpg" alt="9aee32b482c7b8205f1e9634e5d1f450" style="zoom:33%;" />
+<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/9aee32b482c7b8205f1e9634e5d1f450.jpg" alt="9aee32b482c7b8205f1e9634e5d1f450" style="zoom:33%;" />
 
-<img src="../../../../Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/e25388836a56ea886eaecc4749f44e19.jpg" alt="e25388836a56ea886eaecc4749f44e19" style="zoom:30%;" />
+<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/e25388836a56ea886eaecc4749f44e19.jpg" alt="e25388836a56ea886eaecc4749f44e19" style="zoom:28%;" />
 
-<img src="../../../../Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/2a7047bdef1dc61451c648ab517ad3f9.jpg" alt="2a7047bdef1dc61451c648ab517ad3f9" style="zoom:30%;" />
+<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/2a7047bdef1dc61451c648ab517ad3f9.jpg" alt="2a7047bdef1dc61451c648ab517ad3f9" style="zoom:28%;" />
 
-<img src="../../../../Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/7722686fe59ae79159d05eaa9345ed95.jpg" alt="7722686fe59ae79159d05eaa9345ed95" style="zoom:33%;" />
-
-
+<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/7722686fe59ae79159d05eaa9345ed95.jpg" alt="7722686fe59ae79159d05eaa9345ed95" style="zoom:33%;" />
 
 ## （5）react优化页面
 
@@ -1018,11 +1012,11 @@ export default InputExample;
 
 ## （6）react路由
 
-<img src="../../../../Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/49611816f2610ea3f8d209f6d738b62a.jpg" alt="49611816f2610ea3f8d209f6d738b62a" style="zoom:26%;" />
+<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/49611816f2610ea3f8d209f6d738b62a.jpg" alt="49611816f2610ea3f8d209f6d738b62a" style="zoom:27%;" />
 
-<img src="../../../../Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/bb5ec26746e5322096dbc49eb4d8a0b1.jpg" alt="bb5ec26746e5322096dbc49eb4d8a0b1" style="zoom:33%;" />
+<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/bb5ec26746e5322096dbc49eb4d8a0b1.jpg" alt="bb5ec26746e5322096dbc49eb4d8a0b1" style="zoom:35%;" />
 
-<img src="../../../../Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/4ec30832da528b6d6682470cf05df155.jpg" alt="4ec30832da528b6d6682470cf05df155" style="zoom:35%;" />
+<img src="C:/Users/25398/Documents/Tencent Files/2539888062/nt_qq/nt_data/Pic/2025-05/Ori/4ec30832da528b6d6682470cf05df155.jpg" alt="4ec30832da528b6d6682470cf05df155" style="zoom:35%;" />
 
 
 
@@ -1390,11 +1384,12 @@ axios.interceptors.response.use(
 
 ## (7)LocalStorage，SessionStorage和Cookie
 
-<video src="https://www.bilibili.com/video/BV1SL4y1i7ZL?spm_id_from=333.788.videopod.sections&vd_source=0068c85dc70ee23b97ca024f79dca360"/>
+[cookie、localStorage 和 sessionStorage的区别及应用实例 ](https://www.bilibili.com/video/BV1SL4y1i7ZL?spm_id_from=333.788.videopod.sections&vd_source=0068c85dc70ee23b97ca024f79dca360)
 
 ## (8)token
 
-<video src="https://www.bilibili.com/video/BV1ob4y1Y7Ep?spm_id_from=333.788.videopod.sections&vd_source=0068c85dc70ee23b97ca024f79dca360"/>
+[Cookie、Session、Token究竟区别在哪？如何进行身份认证，保持用户登录状态？](https://www.bilibili.com/video/BV1ob4y1Y7Ep?spm_id_from=333.788.videopod.sections&vd_source=0068c85dc70ee23b97ca024f79dca360
+		)
 
 ## (9)跨域
 
@@ -2483,4 +2478,6 @@ function Demo(target: Function) {
 @Demo
 class Person { }
 ```
+
+# 九、调试工具
 
